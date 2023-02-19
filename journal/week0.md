@@ -40,5 +40,10 @@ Research the technical and service limits of specific services and how they coul
 # Link for Logical Architectual Diagram in Lucid Charts
 https://lucid.app/lucidchart/bbd859be-4bf1-4aab-99d1-8d5756c30ec0/edit?viewport_loc=-1535%2C108%2C4490%2C2243%2C0_0&invitationId=inv_da8f846a-a581-4cc6-808b-984b83654b92
 
+![Image for Logical Diagram](assets/week-0-screenshots/Logical%20Diagram.png)
+
 # Link for Conceptual Diagram in Lucid Charts
 https://lucid.app/lucidchart/22254602-a882-4e1c-83c4-bd9e0969a341/edit?viewport_loc=-11%2C-11%2C2219%2C1108%2C0_0&invitationId=inv_c8f53542-16ae-4ab9-ba68-b2243bf80d6f
+
+![Image for Conceptual Diagram](assets/week-0-screenshots/Conceptual%20diagram.png)
+
