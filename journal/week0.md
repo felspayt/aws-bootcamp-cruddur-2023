@@ -11,17 +11,31 @@ Research the technical and service limits of specific services and how they coul
 # Tasks accomplished
 
 - Watched all videos submitted for the bootcamp week-0
+
 - Created new user with admin privileges
+
 ![Image for new user and group](assets/week-0-screenshots/User%20and%20Group.png)
+
 - Activated MFA for the user
+
 ![Image for new MFA activation](assets/week-0-screenshots/MFA%20and%20Acces%20Key.png)
+
 - Created a budget and a billing alert
-![Image for Budget and Billing alerrt](assets/week-0-screenshots/)
+![Image for Budget](assets/week-0-screenshots/Budget.png)
+
+![Image for Billing Alarm](assets/week-0-screenshots/Billing%20Alarm.png)
+
 - Created security credentials for the new user
+
 - As CLI was already installed in my environment I added new credentials and connected to AWS CLI
-- Created an EVent Bridge, SNS topic in order to  monitor the healthcheck and added subscription
+
+![Image for CLI](assets/week-0-screenshots/AWS%20CLI.png)
+
+- Created an Event Bridge, SNS topic in order to  monitor the healthcheck and added subscription
+
+![Image for CLI](assets/week-0-screenshots/SNS%20Topics.png)
+
 - Reviewed well-architected tool
--
 
 # Link for Logical Architectual Diagram in Lucid Charts
 https://lucid.app/lucidchart/bbd859be-4bf1-4aab-99d1-8d5756c30ec0/edit?viewport_loc=-1535%2C108%2C4490%2C2243%2C0_0&invitationId=inv_da8f846a-a581-4cc6-808b-984b83654b92
