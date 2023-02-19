@@ -12,8 +12,11 @@ Research the technical and service limits of specific services and how they coul
 
 - Watched all videos submitted for the bootcamp week-0
 - Created new user with admin privileges
+![Image for new user and group](assets/week-0-screenshots/User%20and%20Group.png)
 - Activated MFA for the user
+![Image for new MFA activation](assets/week-0-screenshots/MFA%20and%20Acces%20Key.png)
 - Created a budget and a billing alert
+![Image for Budget and Billing alerrt](assets/week-0-screenshots/)
 - Created security credentials for the new user
 - As CLI was already installed in my environment I added new credentials and connected to AWS CLI
 - Created an EVent Bridge, SNS topic in order to  monitor the healthcheck and added subscription
