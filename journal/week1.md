@@ -8,12 +8,14 @@
 - Built image and and run container
 
 ![Image for CLI](assets/week-1-screenshots/2.png)
+![Image for CLI](assets/week-1-screenshots/4.png)
 
 - Got Container Images or Running Container Ids
 
 ![Image for CLI](assets/week-1-screenshots/3.png)
 
 - Checked Container Logs
+![Image for CLI](assets/week-1-screenshots/5.png)
 
 - Gained Access to a Container
 
