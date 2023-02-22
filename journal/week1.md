@@ -51,10 +51,11 @@
 ![Image for CLI](assets/week-1-screenshots/21.png)
 
 - Implement a healthcheck in the V3 Docker compose file
+![Image for CLI](assets/week-1-screenshots/22.png)
 
-- Researched best practices of Dockerfiles
-
-- Learned how to install Docker on my localmachine and got the same containers running outside of Gitpod
+- I already got  Docker on my localmachine so I just run same containers  outside of Gitpod
+![Image for CLI](assets/week-1-screenshots/23.png)
 
 - Launch an EC2 instance that has docker installed, and pull a container to demonstrate you can run your own docker processes
 
+- Researched best practices of Dockerfiles
