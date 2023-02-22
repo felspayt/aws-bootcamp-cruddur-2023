@@ -3,10 +3,15 @@
 **For this week below tasks were fulfilled**
 
 - Containerized the Backend
+![Image for CLI](assets/week-1-screenshots/Containerized_the_Backend.png)
 
-- Added Dockerfile and Run Container
+- Built image and and run container
+
+![Image for CLI](assets/week-1-screenshots/2.png)
 
 - Got Container Images or Running Container Ids
+
+![Image for CLI](assets/week-1-screenshots/3.png)
 
 - Checked Container Logs
 
