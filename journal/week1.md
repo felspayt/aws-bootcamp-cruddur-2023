@@ -9,6 +9,7 @@
 
 ![Image for CLI](assets/week-1-screenshots/2.png)
 ![Image for CLI](assets/week-1-screenshots/4.png)
+![Image for CLI](assets/week-1-screenshots/4-1.png)
 
 - Got Container Images or Running Container Ids
 
@@ -23,9 +24,24 @@
 - Deleted an Image
 ![Image for CLI](assets/week-1-screenshots/7.png)
 
-- Created a docker-compose file
+- Created a docker-compose file + Added DynamoDB Local and Postgres
 
-- Added DynamoDB Local and Postgres
+![Image for CLI](assets/week-1-screenshots/9.png)
+
+- Run compose file 
+![Image for CLI](assets/week-1-screenshots/10.png)
+
+- Confiugred backend and frontent part of application for notifications section 
+![Image for CLI](assets/week-1-screenshots/11.png)
+![Image for CLI](assets/week-1-screenshots/12.png)
+
+- Added DynamoDB and Postgress to docker compose file and configured/connected databases
+![Image for CLI](assets/week-1-screenshots/13.png)
+![Image for CLI](assets/week-1-screenshots/14.png)
+![Image for CLI](assets/week-1-screenshots/15.png)
+![Image for CLI](assets/week-1-screenshots/16.png)
+![Image for CLI](assets/week-1-screenshots/17.png)
+![Image for CLI](assets/week-1-screenshots/18.png)
 
 - Run the dockerfile CMD as an external script
 
