@@ -18,8 +18,10 @@
 ![Image for CLI](assets/week-1-screenshots/5.png)
 
 - Gained Access to a Container
+![Image for CLI](assets/week-1-screenshots/6.png)
 
 - Deleted an Image
+![Image for CLI](assets/week-1-screenshots/7.png)
 
 - Created a docker-compose file
 
