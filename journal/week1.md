@@ -43,11 +43,12 @@
 ![Image for CLI](assets/week-1-screenshots/17.png)
 ![Image for CLI](assets/week-1-screenshots/18.png)
 
-- Run the dockerfile CMD as an external script
-
-- Pushed and taged a image to DockerHub
+- Tagged and taged an image to DockerHub
+![Image for CLI](assets/week-1-screenshots/19.png)
+![Image for CLI](assets/week-1-screenshots/20.png)
 
 - Used multi-stage building for a Dockerfile build
+![Image for CLI](assets/week-1-screenshots/21.png)
 
 - Implement a healthcheck in the V3 Docker compose file
 
