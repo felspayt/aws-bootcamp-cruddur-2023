@@ -56,6 +56,8 @@
 - I already got  Docker on my localmachine so I just run same containers  outside of Gitpod
 ![Image for CLI](assets/week-1-screenshots/23.png)
 
-- Launch an EC2 instance that has docker installed, and pull a container to demonstrate you can run your own docker processes
+- Launched an EC2 instance with docker installed, pulled images and run containers
+![Image for CLI](assets/week-1-screenshots/24.png)
+![Image for CLI](assets/week-1-screenshots/25.png)
 
 - Researched best practices of Dockerfiles
